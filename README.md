@@ -31,3 +31,6 @@ Getting Started
 1. Download the project
 2. Open the project in Android Studio
 3. Run the project
+
+![image](https://user-images.githubusercontent.com/62290677/204004758-9f29d0ce-9c81-4875-ae21-9d139c5b783f.png)
+
